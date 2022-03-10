@@ -1,0 +1,19 @@
+*{
+    font-family: Cursive, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+body{
+    
+    background-color: black;
+}
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+    background-color: green;
+}
+.inner {
+    width: 50%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
